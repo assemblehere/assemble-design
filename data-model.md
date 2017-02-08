@@ -10,6 +10,7 @@
 ## Team
 
 - Name
+- Token
 - Members -> User
 
 ## Team Action
@@ -22,10 +23,12 @@
 - Source
 - Title
 - Description
-- Type?
-- Location?
+- Type
+- Category
+- Location
 - Start Date
 - End Date
+- Call to action
 
 ## Organization?
 
