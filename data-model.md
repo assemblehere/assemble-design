@@ -11,12 +11,26 @@
 
 - Name
 - Token
+- Owner?
 - Members -> User
+- Network -> Network
 
 ## Team Action
 
 - Parent -> Action
 - ?
+
+## Discussion
+
+- Team -> Team
+- Action -> Team Action
+
+## Comments
+
+- Discussion -> Discussion
+- Author -> User
+- Date
+- Content
 
 ## Action
 
@@ -24,12 +38,20 @@
 - Title
 - Description
 - Type
-- Category
+- Category -> Category
 - Location
 - Start Date
 - End Date
 - Call to action
+- Token
 
-## Organization?
+## Network
 
-## Campaign?
+- Name
+- Description
+- Category -> Category
+- Location?
+
+## Category
+
+- Name
